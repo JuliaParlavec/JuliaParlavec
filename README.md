@@ -4,7 +4,7 @@
 
 Soy una Desarrolladora Web FullSatck que busca sus primeras experiencias laborales en el mundo de la Tecnología. Me interesa seguir aprendiendo y capacitarme constantemente para adquirir nuevas habilidades y ponerlas en práctica.
 
-Habilidades:  JavaScript | React.Js | Redux | Css | Node.Js | Git | Git Hub | Express | Sequelize | PostreSQL
+Tech skills: JavaScript | React.Js | Redux | Css | Node.Js | Git | Git Hub | Express | Sequelize | PostreSQL
 
 ### Acerca de mi
 📌 Experiencia <br>
@@ -19,7 +19,7 @@ Linkedin: https://www.linkedin.com/in/julia-parlavecchio-096335211/
 
 Countries App consiste en una Single Page Application basada en la temática de países con información obtenida de una rest Api. En esta App se pueden realizar búsquedas, filtrados, ordenamientos y creación de actividades.<br>
 
-Tecnologías utilizadas: PostgreSQL, Sequelize, Node.j, Express, React, Redux, ,Css, JavaScript.<br>
+Tecnologías utilizadas: PostgreSQL, Sequelize, Node.j, Express, React, Redux, Css, JavaScript.<br>
 
 ![](https://res.cloudinary.com/juliap/image/upload/v1663099706/ecommerce/pi_a3mcry.jpg)<br>
 
